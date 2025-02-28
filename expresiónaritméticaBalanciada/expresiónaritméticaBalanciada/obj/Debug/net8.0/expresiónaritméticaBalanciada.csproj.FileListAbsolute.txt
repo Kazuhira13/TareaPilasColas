@@ -1,0 +1,14 @@
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\bin\Debug\net8.0\expresiónaritméticaBalanciada.exe
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\bin\Debug\net8.0\expresiónaritméticaBalanciada.deps.json
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\bin\Debug\net8.0\expresiónaritméticaBalanciada.runtimeconfig.json
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\bin\Debug\net8.0\expresiónaritméticaBalanciada.dll
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\bin\Debug\net8.0\expresiónaritméticaBalanciada.pdb
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\expresiónaritméticaBalanciada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\expresiónaritméticaBalanciada.AssemblyInfoInputs.cache
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\expresiónaritméticaBalanciada.AssemblyInfo.cs
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\expresiónaritméticaBalanciada.csproj.CoreCompileInputs.cache
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\expresiónaritméticaBalanciada.dll
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\refint\expresiónaritméticaBalanciada.dll
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\expresiónaritméticaBalanciada.pdb
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\expresiónaritméticaBalanciada.genruntimeconfig.cache
+C:\Users\tgpp1\OneDrive\Desktop\PROYECTOS2025\TareaNo.3PilasColas\expresiónaritméticaBalanciada\expresiónaritméticaBalanciada\obj\Debug\net8.0\ref\expresiónaritméticaBalanciada.dll

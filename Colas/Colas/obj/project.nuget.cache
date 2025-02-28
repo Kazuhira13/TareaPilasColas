@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACE0fleRnLc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tgpp1\\OneDrive\\Desktop\\PROYECTOS2025\\TareaNo.3PilasColas\\Colas\\Colas\\Colas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tgpp1\\.nuget\\packages\\awssdk.core\\3.7.402.8\\awssdk.core.3.7.402.8.nupkg.sha512",
+    "C:\\Users\\tgpp1\\.nuget\\packages\\awssdk.sqs\\3.7.400.102\\awssdk.sqs.3.7.400.102.nupkg.sha512",
+    "C:\\Users\\tgpp1\\.nuget\\packages\\rabbitmq.client\\7.1.1\\rabbitmq.client.7.1.1.nupkg.sha512",
+    "C:\\Users\\tgpp1\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\tgpp1\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
